@@ -1,0 +1,24 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar {
+    background-color: teal;
+}
+
+.nav-link {
+    color: white;
+}
+
+.quem-somos {
+    background-color: whitesmoke;
+}
+
+.parceiros {
+    background-color: salmon;
+}
+
+.margin {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
